@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-css-grid-mobilefirst-sass-Sv-x4LrjR](https://www.frontendmentor.io/solutions/flexbox-css-grid-mobilefirst-sass-Sv-x4LrjR)
+- Live Site URL: [https://madegilangaditya.github.io/social-proof-section-master/](https://madegilangaditya.github.io/social-proof-section-master/)
 
 ## My process
 
